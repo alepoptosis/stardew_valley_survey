@@ -1,6 +1,6 @@
 # Character preferences of different player groups in Stardew Valley
 
-The study was carried out using Python v. 3.7.3 and Jupyter Notebook. The .ipynb file is available for download along with the dataset folder, containing 1 .csv file. The notebook can also be visualised on its own through GitHub, or preferably [as an HTML page](https://alepoptosis.github.io/stardew_valley_survey/sv_survey.html).
+The study was carried out using Python v. 3.7.3 and Jupyter Notebook. The .ipynb file is available for download along with the dataset folder, containing 1 .csv file. [Click here to see the notebook as an HTML page](https://alepoptosis.github.io/stardew_valley_survey/sv_survey.html).
 
 ## Introduction
 
