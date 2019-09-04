@@ -9,3 +9,7 @@ Stardew Valley is a videogame developed by ConcernedApe. It is a widely popular 
 ## Results highlights
 
 Follow [this link](https://public.tableau.com/profile/alepoptosis#!/vizhome/StardewValleySurveyResults/StardewValleyResults) to see a Tableau Story containing a selection of the insights I gained during this analysis.
+
+---
+
+[Back to GitHub](https://github.com/alepoptosis/stardew_valley_survey)
